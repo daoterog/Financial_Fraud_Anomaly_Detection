@@ -1,0 +1,9 @@
+pandas
+numpy
+scipy
+itertools
+matplotlib
+seaborn
+scikit-learn
+pyod
+prince
