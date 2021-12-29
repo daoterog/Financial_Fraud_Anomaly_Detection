@@ -6,11 +6,6 @@ the thought process used for the functions creation very intuitive.
 
 # Contents:
 
-- data folder: Contains five datasets generated using the Synthetizor tool developed 
-by FinCrime Dynamics, a british company dedicated to study financial crime. The datasets
-were generated using different sets of parameters (varying the number of individuals, businesses,
-and fradulent transactions), however, they resemble in the way that the same patterns are seen in
-every dataset.
 - bagging_modelling.ipynb: A pipeline designed to experiment with a bagging approach developed by the
 team. Different feature engineering, feature selection, and models were tested across multiple runs. The
 notebook has integrated a storing function that allows to store the results of the experiments.
